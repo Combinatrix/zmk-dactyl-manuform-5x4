@@ -1,0 +1,12 @@
+file_format: "1"
+id: dactyl_manuform_5x4
+name: Dactyl Manuform 5x4
+type: shield
+url: https://github.com/Combinatrix/
+requires: [nice_nano]
+exposes: []
+features:
+  - keys
+siblings:
+  - dactyl_manuform_5x4_left
+  - dactyl_manuform_5x4_right

@@ -1,0 +1,5 @@
+#include "dactyl_manuform_5x4.dtsi"
+// Offset of 5 because the left side has 5 columns
+&default_transform {
+    col-offset = <5>;
+};
